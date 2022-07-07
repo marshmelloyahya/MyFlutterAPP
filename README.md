@@ -7,4 +7,4 @@
 <br></br>
 <img src="screenshot4.png"/>
 <br></br>
-<h3>Developed By Yahya Ouali</h3>
+<h3>Developed By Yahya Ouali (c) 2022</h3>
